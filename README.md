@@ -1,6 +1,6 @@
 ## Changing travel patterns in China during the early stages of the COVID-19 pandemic
 
-**Authors:** Hamish Gibbs*1, Yang Liu*1, Carl AB Pearson1, Christopher I Jarvis1, Chris Grundy1, Billy Quilty1, Charlie Diamond1, LSHTM CMMID COVID-19 working group1, Rosalind M Eggo1  
+**Authors:** Hamish Gibbs\*1, Yang Liu\*1, Carl AB Pearson1, Christopher I Jarvis1, Chris Grundy1, Billy Quilty1, Charlie Diamond1, LSHTM CMMID COVID-19 working group1, Rosalind M Eggo1  
 \* authors contributed equally  
 Affiliations:  
 1 Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, Keppel Street, London. WC1E 7HT. UK  
