@@ -15,4 +15,4 @@ Affiliations:
 -`create_cluster_sum.R` create a summary of clustering analysis results.  
 -`leiden.py` compute daily prefecture communities.
 -`all_module_Q_breakdown.R` compute Q of all identified communities.
--`community_sizes.R` compute size of identified communities.
+-`community_sizes.R` compute size of all identified communities.
