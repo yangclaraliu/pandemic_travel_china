@@ -10,3 +10,4 @@ Affiliations:
 -`extract_ts.R` extract origin or destination specific travel time\-series. this is purely for sanity checks.    
 -`reduce2_ntile.R` reduces dimension of connectivity matrix from 366\*366 dimensions to n\*n based on population.  
 -`rank_variability.R` comapre the travel surge in Wuhan to the rest of mainland China before Lunar New Year.
+-`trajectory_clustering_analysis.R` cluster normalized outflow trajectories from Chinese prefectures. 
