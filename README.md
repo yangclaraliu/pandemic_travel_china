@@ -12,4 +12,4 @@ Affiliations:
 -`rank_variability.R` comapre the travel surge in Wuhan to the rest of mainland China before Lunar New Year.  
 -`trajectory_clustering_analysis.R` cluster normalized outflow trajectories from Chinese prefectures.  
 -`create_cluster_piv.R` create a long version of clustering analysis results.  
--`create_cluster_sum.R` create a summary of clustering analysis results: `prefecture_code, cluster, date_of_first_infection`
+-`create_cluster_sum.R` create a summary of clustering analysis results.
