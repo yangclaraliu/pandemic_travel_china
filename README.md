@@ -45,7 +45,7 @@ Clone this repository and use Python or R to run the source files. See the file 
 #### Overview
 -`calc_Access2Care.R` calculates access to healthcare and healthcare pressure on the prefecture level.
 -`calc_Connectivity_ByPopQ.R` contains stratified analyses of inter-prefecture travel patterns.  
--`extract_ts.R` extract origin or destination specific travel time\-series.
+-`extract_ts.R` extract origin or destination specific travel time\-series.  
 -`reduce2_ntile.R` reduces dimension of connectivity matrix from 366\*366 dimensions to n\*n based on population.  
 -`rank_variability.R` compare the travel surge in Wuhan to the rest of mainland China before Lunar New Year.  
 -`trajectory_clustering_analysis.R` cluster normalized outflow trajectories from Chinese prefectures.
