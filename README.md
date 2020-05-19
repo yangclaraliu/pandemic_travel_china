@@ -64,63 +64,63 @@ Because of the application requirement for some datasets used in this analysis, 
 
 #### File reference:
 
-###### calc_Access2Care.R
-**Datasets required:**
-Movement matrix, case count data, hospital location data. 
-**Expected output:**
-Plots of changes in traveler volume and timeseries box plots of changes in healthcare pressure.
+###### calc_Access2Care.R  
+**Datasets required:**  
+Movement matrix, case count data, hospital location data.   
+**Expected output:**  
+Plots of changes in traveler volume and timeseries box plots of changes in healthcare pressure.  
+  
+###### calc_Connectivity_ByPopQ.R  
+**Datasets required:**  
+Movement matrix, population data.  
+**Expected output:**  
+Plot of in- and out-bound traveler volume by population quartile.  
 
-###### calc_Connectivity_ByPopQ.R
-**Datasets required:**
-Movement matrix, population data.
-**Expected output:**
-Plot of in- and out-bound traveler volume by population quartile.
+###### extract_ts.R  
+**Datasets required:**  
+Movement matrix.  
+**Expected output:**  
+Plot of in- or out-bound travel volume for a single origin or destination.  
 
-###### extract_ts.R
-**Datasets required:**
-Movement matrix.
-**Expected output:**
-Plot of in- or out-bound travel volume for a single origin or destination.
+###### rank_variability.R  
+**Datasets required:**  
+Movement matrix, population data.  
+**Expected output:**  
+Plot of peak outflow deviation from 2019 outflow values for all prefectures.  
 
-###### rank_variability.R
-**Datasets required:**
-Movement matrix, population data.
-**Expected output:**
-Plot of peak outflow deviation from 2019 outflow values for all prefectures.
+###### trajectory_clustering_analysis.R  
+**Datasets required:**  
+Movement matrix.  
+**Expected output:**  
+Line plot and silhouette plot of clustered outflow trajectories for a single origin prefecture for a given number of clusters.  
 
-###### trajectory_clustering_analysis.R
-**Datasets required:**
-Movement matrix.
-**Expected output:**
-Line plot and silhouette plot of clustered outflow trajectories for a single origin prefecture for a given number of clusters.
+###### create_cluster_piv.R  
+**Datasets required:**  
+Movement matrix.  
+**Expected output:**  
+"Long" output from `trajectory_clustering_analysis.R`.   
 
-###### create_cluster_piv.R
-**Datasets required:**
-Movement matrix.
-**Expected output:**
-"Long" output from `trajectory_clustering_analysis.R`. 
+###### create_cluster_sum.R  
+**Datasets required:**  
+Movement matrix, case count data, population data.  
+**Expected output:**  
+Summary of prefecture cluster labels, population, and date of first case arrival.  
 
-###### create_cluster_sum.R
-**Datasets required:**
-Movement matrix, case count data, population data.
-**Expected output:**
-Summary of prefecture cluster labels, population, and date of first case arrival.
+###### leiden.py  
+**Datasets required:**  
+Movement matrix.  
+**Expected output:**  
+Dataset of community labels over time computed using the Leiden algorithm.   
 
-###### leiden.py
-**Datasets required:**
-Movement matrix.
-**Expected output:**
-Dataset of community labels over time computed using the Leiden algorithm. 
+###### all_module_Q_breakdown.R  
+**Datasets required:**  
+Movement matrix.  
+**Expected output:**  
+Plots of community modularity over time.   
 
-###### all_module_Q_breakdown.R
-**Datasets required:**
-Movement matrix.
-**Expected output:**
-Plots of community modularity over time. 
-
-###### community_sizes.R
-**Datasets required:**
-Movement matrix.
-**Expected output:**
-Dataset of prefecture community sizes over time. 
+###### community_sizes.R  
+**Datasets required:**  
+Movement matrix.  
+**Expected output:**  
+Dataset of prefecture community sizes over time.   
 
