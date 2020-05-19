@@ -17,27 +17,27 @@ Python code is compatible with Python ~3.7.
 
 #### Dependencies.
 **R packages**
-[ggplot2 3.3.0](https://ggplot2.tidyverse.org/)
-[dplyr 0.8.3](https://dplyr.tidyverse.org/)
-[readr 1.3.1](https://readr.tidyverse.org/)
-[ggrepel 0.8.2](https://github.com/slowkow/ggrepel)
-[cowplot 1.0.0](https://github.com/wilkelab/cowplot)
-[data.table 1.12.8](https://cran.r-project.org/web/packages/data.table/data.table.pdf)
-[cluster 2.1.0](https://cran.r-project.org/web/packages/cluster/cluster.pdf)
-[factoextra 1.0.7](https://cran.r-project.org/web/packages/factoextra/index.html)
-[mapview 2.6.11](https://r-spatial.github.io/mapview/)
-[magrittr 1.5](https://cran.r-project.org/web/packages/magrittr/index.html)
-[ggpubr 0.3.0](https://cran.r-project.org/web/packages/ggpubr/index.html)
-[viridis 0.5.1](https://cran.r-project.org/web/packages/viridis/viridis.pdf)
-[sf 0.9](https://cran.r-project.org/web/packages/sf/index.html)
+[ggplot2 3.3.0](https://ggplot2.tidyverse.org/)  
+[dplyr 0.8.3](https://dplyr.tidyverse.org/)  
+[readr 1.3.1](https://readr.tidyverse.org/)  
+[ggrepel 0.8.2](https://github.com/slowkow/ggrepel)  
+[cowplot 1.0.0](https://github.com/wilkelab/cowplot)  
+[data.table 1.12.8](https://cran.r-project.org/web/packages/data.table/data.table.pdf)  
+[cluster 2.1.0](https://cran.r-project.org/web/packages/cluster/cluster.pdf)  
+[factoextra 1.0.7](https://cran.r-project.org/web/packages/factoextra/index.html)  
+[mapview 2.6.11](https://r-spatial.github.io/mapview/)  
+[magrittr 1.5](https://cran.r-project.org/web/packages/magrittr/index.html)  
+[ggpubr 0.3.0](https://cran.r-project.org/web/packages/ggpubr/index.html)  
+[viridis 0.5.1](https://cran.r-project.org/web/packages/viridis/viridis.pdf)  
+[sf 0.9](https://cran.r-project.org/web/packages/sf/index.html)  
 
 **Python packages**
-[glob 10.7](https://docs.python.org/2/library/glob.html)
-[pandas 1.0.3](https://pandas.pydata.org/)
-[igraph 0.8.2](https://github.com/igraph/python-igraph)
-[leidenalg 0.8.0](https://pypi.org/project/leidenalg/)
-[re 3.8.3](https://docs.python.org/3/library/re.html)
-[numpy 1.19.0](https://github.com/numpy/numpy)
+[glob 10.7](https://docs.python.org/2/library/glob.html)  
+[pandas 1.0.3](https://pandas.pydata.org/)  
+[igraph 0.8.2](https://github.com/igraph/python-igraph)  
+[leidenalg 0.8.0](https://pypi.org/project/leidenalg/)  
+[re 3.8.3](https://docs.python.org/3/library/re.html)  
+[numpy 1.19.0](https://github.com/numpy/numpy)  
 
 #### Installation
 Clone this repository and use Python or R to run the source files. See the file reference below for details on required datasets and expected outputs.
