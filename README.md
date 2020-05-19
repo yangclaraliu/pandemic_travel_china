@@ -15,8 +15,8 @@ This research also relies on Covid-19 case count data and prefecture level hospi
 R code is compatible with R ~3.6. 
 Python code is compatible with Python ~3.7.
 
-#### Dependencies.
-**R packages**
+#### Dependencies
+**R packages:**  
 [ggplot2 3.3.0](https://ggplot2.tidyverse.org/)  
 [dplyr 0.8.3](https://dplyr.tidyverse.org/)  
 [readr 1.3.1](https://readr.tidyverse.org/)  
@@ -31,7 +31,7 @@ Python code is compatible with Python ~3.7.
 [viridis 0.5.1](https://cran.r-project.org/web/packages/viridis/viridis.pdf)  
 [sf 0.9](https://cran.r-project.org/web/packages/sf/index.html)  
 
-**Python packages**
+**Python packages:**  
 [glob 10.7](https://docs.python.org/2/library/glob.html)  
 [pandas 1.0.3](https://pandas.pydata.org/)  
 [igraph 0.8.2](https://github.com/igraph/python-igraph)  
